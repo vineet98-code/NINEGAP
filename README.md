@@ -3,13 +3,11 @@
 MERN Stack which will have 4 pages :
 1) Homepage with decent layout and structure.
 2) Signup Page
-a) Fields for FirstName, LastName, ProfilePhoto, Email, Password
-b) Continue with Google
-c) Continue with Facebook
+   a) Fields for FirstName, LastName, ProfilePhoto, Email, Password
+
 3) Login page
-a) Email/Password Login
-b) Continue with Google
-c) Continue with Facebook
+   a) Email/Password Login
+
 4) Dashboard
 a) Welcome user after successful Login/SignUp and show FirstName, LastName,
 ProfilePhoto and Email
@@ -49,6 +47,6 @@ I’m currently learning and upgrading my skills in web development. And also I 
 
 ## Tech Stack
 
-**Client:** React, Styled-Component, Materials-UI icons
+**Client:** React, Styled-Component, Materials-CSS, react-router-dom
 
 **Client:**  Express, node, mongodb
