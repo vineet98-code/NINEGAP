@@ -23,7 +23,7 @@ ProfilePhoto and Email
 Clone the project
 
 ```bash
-  git clone git@github.com:vineet98-code/totalitycorp-frontend-challenge.git
+  git clone git@github.com:vineet98-code/NINEGAP.git
 ```
 
 Navigate to the project
